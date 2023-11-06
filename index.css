@@ -47,4 +47,25 @@ body {background-color: rgb(164, 240, 240);
         font-size: 50px;
         border-radius: 10px;
 }
+.cicagomb {
+    color:aqua;
+    border: 5px solid aqua;
+    font-size: 50px;
+    cursor: pointer;
+    border-radius: 10px;
+    
+
+    
+}
+.cicagomb:hover {
+       font-size: 60px;
+       color: #ff3c00;
+       border: 30px solid #ff3c00 ;
+       border-radius: 20px;
+       border-style: outset;
+}
+
+.cicagif {
+    position: absolute;
+}
 
