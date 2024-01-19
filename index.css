@@ -68,3 +68,36 @@ hr {
 .cicagif {
     border-radius: 15px;
 }
+
+#ujTartalom {
+    background-color: #f9f9f9; /* Világosabb háttér */
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+#ujTartalom h2 {
+    color: #4caf50; /* Zöld cím szín */
+}
+
+#ujTartalom p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+#ujTartalom .link1 {
+    display: inline-block;
+    background-color: #3f51b5; /* Indigó gomb háttér */
+    color: #fff;
+    padding: 15px 30px;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+
+#ujTartalom .link1:hover {
+    background-color: #303f9f; /* Sötétebb indigó hover állapotban */
+}
+
